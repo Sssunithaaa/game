@@ -1,3 +1,3 @@
-# Sudoku game built using react
+## Sudoku game built using react
 
 
